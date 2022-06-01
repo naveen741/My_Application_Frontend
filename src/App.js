@@ -27,14 +27,14 @@ function App() {
         </div>
         
         <nav className="navi">
-        {islogin && <Link className="item" to="/" onClick={()=>{setIslogin(false)}}>Log Out</Link>}
-        <Link className="item" to={islogin?"/home":"/"}>Home</Link>
+        {islogin && <Link className="item" to="/My_Application_Frontend" onClick={()=>{setIslogin(false)}}>Log Out</Link>}
+        <Link className="item" to={islogin?"/home":"/My_Application_Frontend"}>Home</Link>
         <Link className="item" to="/about">About</Link>
         <Link className="item" to="/contact">Contact</Link>
         </nav>
       </div>
         <Routes>
-          <Route path="/" element={<LoginForm getmsg={getmsg}/>}/>
+          <Route path="/My_Application_Frontend" element={<LoginForm getmsg={getmsg}/>}/>
           <Route path="/about" element={<About/>}/>
           <Route path="/contact" element={<Contact/>}/>
           <Route path="/signupform" element={<SignUpForm/>}/>
