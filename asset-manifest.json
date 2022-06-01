@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My_Application_Frontend/static/css/main.ed0420ec.css",
+    "main.js": "/My_Application_Frontend/static/js/main.0df752e4.js",
+    "static/js/787.0330c0f8.chunk.js": "/My_Application_Frontend/static/js/787.0330c0f8.chunk.js",
+    "static/media/photo-grid.png": "/My_Application_Frontend/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/airbnb-logo.png": "/My_Application_Frontend/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "static/media/Instagram Icon.svg": "/My_Application_Frontend/static/media/Instagram Icon.b65fd1ea807b0dd362e3.svg",
+    "static/media/GitHub Icon.svg": "/My_Application_Frontend/static/media/GitHub Icon.a6e245a37f0e87cef1e5.svg",
+    "static/media/Twitter Icon.svg": "/My_Application_Frontend/static/media/Twitter Icon.5cb28d333b8d6744d0d9.svg",
+    "static/media/Vector.svg": "/My_Application_Frontend/static/media/Vector.19612fdb23c98848437a.svg",
+    "index.html": "/My_Application_Frontend/index.html",
+    "static/media/Facebook Icon.svg": "/My_Application_Frontend/static/media/Facebook Icon.1c2e1e60a9fefe1f4cc3.svg",
+    "static/media/Icon.svg": "/My_Application_Frontend/static/media/Icon.9a2254b41727510aba0d.svg",
+    "main.ed0420ec.css.map": "/My_Application_Frontend/static/css/main.ed0420ec.css.map",
+    "main.0df752e4.js.map": "/My_Application_Frontend/static/js/main.0df752e4.js.map",
+    "787.0330c0f8.chunk.js.map": "/My_Application_Frontend/static/js/787.0330c0f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0420ec.css",
+    "static/js/main.0df752e4.js"
+  ]
+}
