@@ -13,7 +13,7 @@ export default function LoginForm(props){
             if(Response.message==='SUCCESS'){
                 alert("sucessfully logged in")
                 props.getmsg();
-                navigate("/home");
+                navigate("/My_Application_Frontend/home");
             }
             else if(Response.message==='INCORRECT DETAILS')
                 alert("Enter the credentails properly")

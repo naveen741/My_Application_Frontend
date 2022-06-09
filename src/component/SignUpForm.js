@@ -16,7 +16,7 @@ export default function SignUpForm(){
               navigate("/My_Application_Frontend");
           }
           else
-          alert("Something went wrong please try again")
+            alert("Something went wrong please try again")
         })
         .catch((error)=>{alert("Something went wrong please try again")})
       }
