@@ -13,7 +13,7 @@ export default function SignUpForm(){
           console.log(Response);
           if(Response.message==='SUCCESS'){
               alert("sucessfully Signed Up")
-              navigate("/onlineCompiler");
+              navigate("/My_Application_Frontend");
           }
           else
           alert("Something went wrong please try again")
