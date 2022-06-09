@@ -12,7 +12,7 @@ import TravelJournel from './component/TravelJournel/TravelJournel';
 import Tenzies from './component/Tenzies/Tenzies';
 import Quiz from './component/Quiz/Quiz';
 import { useState } from "react";
-import OnlineCompiler from "./component/onlineCompiler/OnlineCompiler";
+import OnlineCompiler from "./component/OnlineCompiler/OnlineCompiler";
 function App() {
   const [islogin, setIslogin]=useState(false);
   const getmsg=()=>{
