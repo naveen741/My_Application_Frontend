@@ -12,6 +12,7 @@ import TravelJournel from './component/TravelJournel/TravelJournel';
 import Tenzies from './component/Tenzies/Tenzies';
 import Quiz from './component/Quiz/Quiz';
 import { useState } from "react";
+import OnlineCompiler from "./component/onlineCompiler/OnlineCompiler";
 function App() {
   const [islogin, setIslogin]=useState(false);
   const getmsg=()=>{
@@ -45,6 +46,7 @@ function App() {
           <Route path="/memeGenerator" element={<MemeGenerator/>}/>
           <Route path="/tenzies" element={<Tenzies/>}/>
           <Route path="/quiz" element={<Quiz/>}/>
+          <Route path="/onlineCompiler" element={<OnlineCompiler/>}/>
         </Routes>
       </BrowserRouter>
     </div>

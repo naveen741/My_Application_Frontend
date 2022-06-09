@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:8082/' 
+const baseURL = 'https://safe-reaches-72795.herokuapp.com/' 
 export function fetchData (reqBody, reqRoute) {
   return fetch (baseURL + reqRoute, {
     method: 'POST',
