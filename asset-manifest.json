@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My_Application_Frontend/static/css/main.ed0420ec.css",
-    "main.js": "/My_Application_Frontend/static/js/main.4bda3ec2.js",
+    "main.css": "/My_Application_Frontend/static/css/main.f4abe0a8.css",
+    "main.js": "/My_Application_Frontend/static/js/main.f8350c7b.js",
     "static/js/787.0330c0f8.chunk.js": "/My_Application_Frontend/static/js/787.0330c0f8.chunk.js",
     "static/media/photo-grid.png": "/My_Application_Frontend/static/media/photo-grid.294d59b66b94e0e456cf.png",
     "static/media/airbnb-logo.png": "/My_Application_Frontend/static/media/airbnb-logo.e4424517383d14a03a24.png",
@@ -12,12 +12,12 @@
     "index.html": "/My_Application_Frontend/index.html",
     "static/media/Facebook Icon.svg": "/My_Application_Frontend/static/media/Facebook Icon.1c2e1e60a9fefe1f4cc3.svg",
     "static/media/Icon.svg": "/My_Application_Frontend/static/media/Icon.9a2254b41727510aba0d.svg",
-    "main.ed0420ec.css.map": "/My_Application_Frontend/static/css/main.ed0420ec.css.map",
-    "main.4bda3ec2.js.map": "/My_Application_Frontend/static/js/main.4bda3ec2.js.map",
+    "main.f4abe0a8.css.map": "/My_Application_Frontend/static/css/main.f4abe0a8.css.map",
+    "main.f8350c7b.js.map": "/My_Application_Frontend/static/js/main.f8350c7b.js.map",
     "787.0330c0f8.chunk.js.map": "/My_Application_Frontend/static/js/787.0330c0f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed0420ec.css",
-    "static/js/main.4bda3ec2.js"
+    "static/css/main.f4abe0a8.css",
+    "static/js/main.f8350c7b.js"
   ]
 }
