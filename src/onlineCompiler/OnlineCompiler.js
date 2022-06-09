@@ -1,10 +1,12 @@
 import { useEffect, useState } from 'react';
 import './OnlineCompiler.css';
 import Editor from "@monaco-editor/react";
-import Navbar from './Navbar';
+
 import { data } from './data';
 import { Accordion, AccordionDetails, AccordionSummary } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import CodeNavbar from '../component/onlineCompiler/CodeNavbar';
+
 // import Axios from 'axios';
 
 //import spinner from './spinner.svg';
@@ -120,7 +122,7 @@ export default function OnlineCompiler(){
   
   return (
     <div className='OnlineCompiler' onCopy={e=>e.preventDefault()} onPaste={e=>e.preventDefault()} >
-      <Navbar
+      <CodeNavbar
           userLang={userLang} setUserLang={setUserLang}
           userTheme={userTheme} setUserTheme={setUserTheme}
           fontSize={fontSize} setFontSize={setFontSize}

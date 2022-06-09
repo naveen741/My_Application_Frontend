@@ -9,6 +9,7 @@ function Home(){
                 <li><Link to="/memeGenerator">MemeGenerator</Link></li>
                 <li><Link to="/tenzies">Tenzies</Link></li>
                 <li><Link to="/quiz">Quizzal</Link></li>
+                <li><Link to="/onlineCompiler">OnlineCompiler</Link></li>
             </ul>
             
             

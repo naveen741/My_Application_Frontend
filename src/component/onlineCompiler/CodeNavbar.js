@@ -1,9 +1,9 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Select from 'react-select';
-import './Navbar.css';
+import './CodeNavbar.css';
  
-const Navbar = ({userLang, setUserLang, userTheme,
+const CodeNavbar = ({userLang, setUserLang, userTheme,
                 setUserTheme, fontSize, setFontSize}) => {
     const languages = [
         { value: "C", label: "C" },
@@ -37,4 +37,4 @@ const Navbar = ({userLang, setUserLang, userTheme,
         </div>
     )
 }
-export default Navbar
+export default CodeNavbar
