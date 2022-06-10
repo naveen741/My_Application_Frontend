@@ -130,7 +130,7 @@ export default function OnlineCompiler(){
       
       <div className="codingPage">
         <div className='codequestion'>{q1}</div>
-        <div className="main">
+        <div className="codeMain">
           <div className="top-container">
             {/* <textarea onPaste={e=>e.preventDefault()}></textarea> */}
           {/* <input type="text" value="" id="myInput"/> */}
