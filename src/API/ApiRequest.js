@@ -1,4 +1,4 @@
-const baseURL = 'https://safe-reaches-72795.herokuapp.com/' 
+const baseURL = 'https://my-application-backend.herokuapp.com/' 
 export function fetchData (reqBody, reqRoute) {
   return fetch (baseURL + reqRoute, {
     method: 'POST',
